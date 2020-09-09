@@ -15,8 +15,8 @@ namespace Git
             Console.WriteLine("Добро пожаловать в C#!");
             Console.WriteLine("Пока мир...");
             Console.WriteLine(24.5);
-            //Console.WriteLine("Add new information 1");
-            //Console.ReadKey();
+            Console.WriteLine("Add new information 1");
+            Console.ReadKey();
         }
     }
 }
